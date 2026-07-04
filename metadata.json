@@ -1,0 +1,6 @@
+{
+  "name": "إدارة الديون والحسابات",
+  "description": "تطبيق احترافي متكامل لإدارة ديون وحسابات المشتركين مع إشعارات واتساب التلقائية وإحصائيات متقدمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
